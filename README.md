@@ -10,7 +10,7 @@
 - 빌드 도구는 gradle를 사용해주세요.
 - Spring data JPA를 사용해주세요.
 
-### 2. Ty**pescript + Nest.JS**
+### 2. Typescript + Nest.JS**
 
 - TypeORM을 사용해주세요.
 
